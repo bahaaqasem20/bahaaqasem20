@@ -1,12 +1,12 @@
 <br clear="both">
 
-<img align="center" height="520" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"  />
+<h2 align="center">“Computer Science is no more about computers than astronomy is about telescopes.”<br>— Edsger W. Dijkstra</h2>
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hi 👋, I'm Bahaa Aldeen</h1>
+<div align="center">
+  <img height="520" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"  />
+</div>
 
 ###
 
@@ -24,11 +24,21 @@
 
 ###
 
+<br clear="both">
+
+<h1 align="center">Hi 👋, I'm Bahaa Aldeen</h1>
+
+###
+
 <h2 align="center">A passionate Mobile Applications Developer</h2>
 
 ###
 
-<h4 align="left">🌱 Currently exploring Game Development & advanced Flutter techniques<br><br>💬 Ask me about Flutter and UI/UX design<br><br>🎮 Passionate about crafting immersive user experiences and building games<br><br>📫 Contact me at: qasembahaa2003@gmail.com</h4>
+<img align="right" height="250" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
+
+###
+
+<h4 align="left">🌱 Currently exploring Game Development & advanced Flutter techniques<br><br>💬 Ask me about Flutter and UI/UX design<br><br>🎮 Passionate about crafting immersive user experiences and building games<br><br>📫 Contact me at: qasembahaa2003@gmail.com<br><br>⚡ Fun fact: The first computer bug was a literal bug</h4>
 
 ###
 
