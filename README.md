@@ -6,6 +6,10 @@
 
 <br clear="both">
 
+<h1 align="center">Hi 👋, I'm Bahaa Aldeen</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/bahaaelden/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,17 +24,11 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hi 👋, I'm Bahaa Aldeen</h1>
+<h2 align="center">A passionate Mobile Applications Developer</h2>
 
 ###
 
-<h3 align="center">A passionate Mobile Applications Developer</h3>
-
-###
-
-<p align="left">🌱 Currently exploring Game Development & advanced Flutter techniques<br>💬 Ask me about Flutter and UI/UX design<br>🎮 Passionate about crafting immersive user experiences and building games<br>📫 Contact me at: qasembahaa2003@gmail.com</p>
+<h4 align="left">🌱 Currently exploring Game Development & advanced Flutter techniques<br><br>💬 Ask me about Flutter and UI/UX design<br><br>🎮 Passionate about crafting immersive user experiences and building games<br><br>📫 Contact me at: qasembahaa2003@gmail.com</h4>
 
 ###
 
@@ -38,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
