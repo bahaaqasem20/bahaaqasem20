@@ -32,10 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bahaaqasem20/bahaaqasem20/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
