@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="420" src="https://i.pinimg.com/originals/34/a4/31/34a431403ca0b12489a55f327817fc63.gif"  />
+<img align="left" height="550" src="https://i.pinimg.com/originals/34/a4/31/34a431403ca0b12489a55f327817fc63.gif"  />
 
 ###
 
@@ -86,6 +86,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahaaqasem20/bahaaqasem20/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahaaqasem20/bahaaqasem20/output/pacman-contribution-graph.svg">
@@ -94,12 +96,12 @@
 
 ###
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif"  />
+<img align="right" height="196" src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahaaqasem20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahaaqasem20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
